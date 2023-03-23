@@ -1,0 +1,44 @@
+.container{
+	display: flex;
+	align-items: center;
+}
+
+img {
+	margin-right: 10px;
+}
+p{
+	font-family: Gill Sans;
+	style=color:#A8DC46;
+}
+.campo{
+	background: whitesmoke;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 16pt;
+	font-weight: bold;
+	border-radius: 25px;
+	width: 250px;
+	height: 33px;
+	color:darkgray ;
+}
+.campomini{
+	background: whitesmoke;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 16pt;
+	font-weight: bold;
+	border-radius: 25px;
+	width: 125px;
+	height: 33px;
+	color:darkgray ;
+}
+.campoHM{
+	background: #A8DC46;
+	text-align: center;
+	color: black;
+	font-size: 16pt;
+	font-weight: bold;
+	border-radius: 25px;
+	width: 125px;
+	height: 33px;
+}
