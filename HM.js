@@ -8,5 +8,8 @@ function redirectpco(){
 window.open("PCO.HTML","body");
 }
 function Menu(){
-window.open("cuerpo.html","body")
+window.open("cuerpo.html","body");
+}
+function redorecnso(){
+window.open("NSO.HTML","body");
 }
