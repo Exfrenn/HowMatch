@@ -6,9 +6,14 @@
 img {
 	margin-right: 10px;
 }
-p{
+.p{
 	font-family: Gill Sans;
 	style=color:#A8DC46;
+}
+
+.h1{
+	font-family: Gill Sans;
+	font=color:#A8DC46;
 }
 .campo{
 	background: whitesmoke;
